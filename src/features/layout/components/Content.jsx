@@ -211,7 +211,7 @@ export const Content = () => {
             >
                 <Container maxWidth="sm">
                     <Typography variant="h4" fontWeight="bold" gutterBottom>
-                        ¿Que esperas para comprar? <br />Encuentra nuestro catálogo en Artículos
+                        Ver en el Respositorio <br />Aquí puedes ver el proyecto completo
                     </Typography>
 
                     <Button
@@ -222,8 +222,10 @@ export const Content = () => {
                             borderRadius: "30px",
                             px: 5
                         }}
+                        href="https://github.com/Jucvyu/Taller3REACT"
+                        target="_blank"
                     >
-                        Comprar Ahora
+                        Ver en GitHub
                     </Button>
                 </Container>
             </Box>
