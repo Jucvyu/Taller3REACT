@@ -82,7 +82,7 @@ El diseño de la aplicación se centra en la claridad visual y la facilidad de n
 
 | Catálogo de Productos | Gestión de Carrito (Checkout) |
 | :---: | :---: |
-| ![Catálogo Principal](https://taller3-react-e67l9tehu-jucvyus-projects.vercel.app/#/) | ![Carrito de Compras]([https://via.placeholder.com/600x400?text=Resumen+de+Compra+React](https://taller3-react-e67l9tehu-jucvyus-projects.vercel.app/#/cart)) |
+| ![Catálogo Principal]([public/img/articles.png]) | ![Carrito de Compras]([https://via.placeholder.com/600x400?text=Resumen+de+Compra+React](public/img/cartShop.png)) |
 
 ### Puntos Destacados del Diseño:
 * **Cards Dinámicas:** Cada producto se presenta con su imagen, precio formateado y un botón de acción rápida.
