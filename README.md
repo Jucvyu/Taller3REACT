@@ -80,9 +80,9 @@ t3_eshop/
 
 El diseño de la aplicación se centra en la claridad visual y la facilidad de navegación, utilizando una paleta de colores limpia y componentes de **Material UI** que garantizan una experiencia de usuario intuitiva.
 
-| Catálogo de Productos | Gestión de Carrito (Checkout) |
-| :---: | :---: |
-| ![Catálogo Principal]([public/img/articles.png]) | ![Carrito de Compras]([https://via.placeholder.com/600x400?text=Resumen+de+Compra+React](public/img/cartShop.png)) |
+| Catálogo de Productos | Gestión de Carrito | Landing Page | Favoritos | Mi cuenta |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Catálogo Principal]([public/img/articles.png]) | ![Carrito de Compras]([https://via.placeholder.com/600x400?text=Resumen+de+Compra+React](public/img/cartShop.png)) | ![Landing Page](public/img/landing.png) | ![Favoritos](public/img/favourite.png) | ![Mi cuenta](public/img/myAccount.png)
 
 ### Puntos Destacados del Diseño:
 * **Cards Dinámicas:** Cada producto se presenta con su imagen, precio formateado y un botón de acción rápida.
